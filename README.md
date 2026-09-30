@@ -2,6 +2,8 @@
 
 **UE24CS352A Machine Learning, Mini-Project #53: "2020 Summer Olympic Games Predictions"**
 
+Aditya Singhal (PES1UG24AM420) and Edwin Himax (PES1UG24AM430), Section H
+
 We replicate the Stanford CS229 report *2020 Summer Olympics Predictions Using Machine Learning*
 (B. Dobkowski, Spring 2021, [PDF](https://cs229.stanford.edu/proj2021spr/report2/81985704.pdf)) and extend it.
 The paper could only test on Rio 2016 because Tokyo 2020 had not happened yet. We also predict **Tokyo 2020**
