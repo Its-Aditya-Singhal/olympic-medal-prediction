@@ -1,0 +1,206 @@
+Country,Athletes,ISO3
+Afghanistan,5,AFG
+Albania,9,ALB
+Algeria,38,DZA
+American Samoa,6,ASM
+Andorra,2,AND
+Angola,20,AGO
+Antigua and Barbuda,6,ATG
+Argentina,185,ARG
+Armenia,17,ARM
+Aruba,3,ABW
+Australia,479,AUS
+Austria,73,AUT
+Azerbaijan,44,AZE
+Bahamas,15,BHS
+Bahrain,32,BHR
+Bangladesh,6,BGD
+Barbados,8,BRB
+Belarus,103,BLR
+Belgium,123,BEL
+Belize,3,BLZ
+Benin,7,BEN
+Bermuda,2,BMU
+Bhutan,4,BTN
+Bolivia,5,BOL
+Bosnia and Herzegovina,7,BIH
+Botswana,13,BWA
+Brazil,310,BRA
+British Virgin Islands,3,VGB
+Brunei,2,BRN
+Bulgaria,42,BGR
+Burkina Faso,7,BFA
+Burundi,6,BDI
+Cambodia,3,KHM
+Cameroon,12,CMR
+Canada,378,CAN
+Cape Verde,6,CPV
+Cayman Islands,5,CYM
+Central African Republic,2,CAF
+Chad,3,TCD
+Chile,51,CHL
+China,410,CHN
+Colombia,70,COL
+Comoros,3,COM
+Cook Islands,6,COK
+Costa Rica,13,CRI
+Croatia,60,HRV
+Cuba,70,CUB
+Cyprus,15,CYP
+Czech Republic,109,CZE
+Democratic Republic of the Congo,6,COD
+Denmark,104,DNK
+Djibouti,4,DJI
+Dominica,2,DMA
+Dominican Republic,65,DOM
+Timor-Leste,3,TLS
+Ecuador,46,ECU
+Egypt,137,EGY
+El Salvador,5,SLV
+Equatorial Guinea,3,GNQ
+Eritrea,13,ERI
+Estonia,33,EST
+Eswatini,4,SWZ
+Ethiopia,36,ETH
+Federated States of Micronesia,3,FSM
+Fiji,32,FJI
+Finland,45,FIN
+France,380,FRA
+Gabon,5,GAB
+The Gambia,4,GMB
+Georgia,33,GEO
+Germany,392,DEU
+Ghana,12,GHA
+Great Britain,375,GBR
+Greece,83,GRC
+Grenada,6,GRD
+Guam,5,GUM
+Guatemala,24,GTM
+Guinea,4,GIN
+Guinea-Bissau,4,GNB
+Guyana,7,GUY
+Haiti,6,HTI
+Honduras,23,HND
+Hong Kong,43,HKG
+Hungary,172,HUN
+Iceland,4,ISL
+India,120,IND
+Indonesia,28,IDN
+Iran,65,IRN
+Iraq,3,IRQ
+Ireland,120,IRL
+Israel,89,ISR
+Italy,384,ITA
+Ivory Coast,26,CIV
+Jamaica,54,JAM
+Japan,556,JPN
+Jordan,14,JOR
+Kazakhstan,97,KAZ
+Kenya,85,KEN
+Kiribati,3,KIR
+Kosovo,11,XKX
+Kuwait,10,KWT
+Kyrgyzstan,16,KGZ
+Laos,4,LAO
+Latvia,32,LVA
+Lebanon,6,LBN
+Lesotho,2,LSO
+Liberia,3,LBR
+Libya,4,LBY
+Liechtenstein,5,LIE
+Lithuania,42,LTU
+Luxembourg,12,LUX
+Madagascar,6,MDG
+Malawi,5,MWI
+Malaysia,30,MYS
+Maldives,4,MDV
+Mali,4,MLI
+Malta,6,MLT
+Marshall Islands,2,MHL
+Mauritania,2,MRT
+Mauritius,8,MUS
+Mexico,160,MEX
+Moldova,20,MDA
+Monaco,6,MCO
+Mongolia,43,MNG
+Montenegro,34,MNE
+Morocco,44,MAR
+Mozambique,10,MOZ
+Myanmar,2,MMR
+Namibia,11,NAM
+Nauru,2,NRU
+Nepal,5,NPL
+Netherlands,267,NLD
+New Zealand,215,NZL
+Nicaragua,8,NIC
+Niger,7,NER
+Nigeria,53,NGA
+North Macedonia,8,MKD
+Norway,93,NOR
+Oman,5,OMN
+Pakistan,10,PAK
+Palau,3,PLW
+Palestine,5,PSE
+Panama,10,PAN
+Papua New Guinea,8,PNG
+Paraguay,8,PRY
+Peru,35,PER
+Philippines,19,PHL
+Poland,206,POL
+Portugal,92,PRT
+Puerto Rico,37,PRI
+Qatar,15,QAT
+Republic of the Congo,3,COG
+ROC,334,RUS
+Romania,102,ROU
+Rwanda,5,RWA
+Saint Kitts and Nevis,2,KNA
+Saint Lucia,5,LCA
+Saint Vincent and the Grenadines,3,VCT
+Samoa,8,WSM
+San Marino,5,SMR
+São Tomé and Príncipe,3,STP
+Saudi Arabia,31,SAU
+Senegal,9,SEN
+Serbia,87,SRB
+Seychelles,5,SYC
+Sierra Leone,3,SLE
+Singapore,23,SGP
+Slovakia,41,SVK
+Slovenia,53,SVN
+Solomon Islands,3,SLB
+Somalia,2,SOM
+South Africa,177,ZAF
+South Korea,235,KOR
+South Sudan,2,SSD
+Spain,328,ESP
+Sri Lanka,9,LKA
+Sudan,4,SDN
+Suriname,2,SUR
+Sweden,133,SWE
+Switzerland,113,CHE
+Syria,6,SYR
+Chinese Taipei,68,TWN
+Tajikistan,10,TJK
+Tanzania,3,TZA
+Thailand,41,THA
+Togo,4,TGO
+Tonga,6,TON
+Trinidad and Tobago,25,TTO
+Tunisia,63,TUN
+Turkey,105,TUR
+Turkmenistan,9,TKM
+Tuvalu,2,TUV
+Uganda,25,UGA
+Ukraine,149,UKR
+United Arab Emirates,5,ARE
+United States,615,USA
+Uruguay,11,URY
+Uzbekistan,67,UZB
+Vanuatu,3,VUT
+Venezuela,44,VEN
+Vietnam,18,VNM
+Virgin Islands,4,VIR
+Yemen,5,YEM
+Zambia,27,ZMB
+Zimbabwe,5,ZWE

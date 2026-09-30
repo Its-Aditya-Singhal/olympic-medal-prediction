@@ -1,0 +1,14 @@
+# environment
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+.claude/
+
+# Kaggle raw data (download instructions in README)
+data/raw/*.csv
+
+# LaTeX build files
+reports/writeup/*.aux
+reports/writeup/*.log
+reports/writeup/*.out
